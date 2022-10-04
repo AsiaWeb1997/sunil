@@ -1,0 +1,291 @@
+@media (max-width: 1399px){
+	.baby-boy-wrapper img {
+		max-width: 430px;
+	}
+	.nav-link {
+		font-size: 14px;
+		display: inline-block;
+		padding: 5px 20px;
+	}
+	.btn-white {
+		padding: 10px 16px;
+	}
+	.navbar-brand img {
+		max-width: 280px;
+	}
+	.btn-info {
+		padding: 10px 16px;
+	}
+}
+@media (max-width: 1199px){
+	.navbar-collapse {
+		position: absolute;
+		top: 60px;
+		background: #d9f3fc;
+		width: 100%;
+		left: 0;
+		padding: 20px;
+	}
+
+	h1 {
+		font-size: 50px;
+	}
+	.active .nav-link {
+		padding: 8px 20px;
+	}
+	.nav-link {
+		font-size: 16px;
+		display: inline-block;
+		padding: 5px 20px;
+		margin-bottom: 20px;
+	}
+	.multistep-subscribe {
+    	flex: auto;
+    	justify-content: center;
+	}
+	.fees-wrapper {
+    	padding: 30px 40px;
+    }
+    .subscript-data {
+    	text-align: left;
+	}
+	.subscript-data .fees-wrapper:nth-child(3) {
+    	max-width: 80%;
+	}
+}
+@media (max-width: 991px){
+	.slider-content {
+		flex-wrap: wrap;
+		gap: 15px;
+	}
+	.slider-content img {
+		max-width: 70px;
+	}
+	.content-slider-hero h2 {
+		font-size: 30px;
+	}
+	.content-slider-hero p {
+		font-size: 15px;
+	}
+	.btn-outline-light {
+		border-radius: 0;
+		border-width: 2px;
+		padding: 10px 20px;
+	}
+	.baby-boy-wrapper img {
+		max-width: 330px;
+	}
+	.image-width {
+		text-align: center;
+	}
+	.image-width-rigth{
+		margin: auto;
+	}
+	.subscription-wrapper {
+		margin-top: 160px;
+	}
+	.accordion-text {
+    	max-width: 100%;
+    	padding: 13px 0;
+	}
+	.image-features {
+    	max-width: 200px;
+    	margin-right: 10px;
+    }    
+}
+@media (max-width: 767px){
+	.btn-info, .btn-white {
+		padding: 6px 10px;
+	}
+	.accordion-feature-wrap .image-features{
+		padding: 0;
+	}
+	.image-features {
+    	max-width: 100px;
+    	margin-right: 10px;
+    }    
+	.services-boy-wrapper img {
+		position: relative;
+		left: 0;
+    	bottom: -40px;
+	}
+	.head-hero {
+    	height: auto;
+    	min-height: 700px;
+	    overflow: unset;
+	}
+	.hero-banner {
+    	height: auto;
+    	justify-content: center;
+    	padding: 140px 0 0;
+	}
+	.accordion-feature-wrap {
+    	flex-wrap: wrap;
+    	padding: 30px 25px;
+    	gap: 25px;
+	}
+    .accordion-features {
+    	border-radius: 15px;
+	}
+	.fees-wrapper {
+    	padding: 20px;
+    }
+    .main .multistep-box {
+    	padding: 30px 10px;
+    }
+    #progress_header li {
+    	font-size: 0;
+    }
+    #progress_header li:after {
+    	width: 25px;
+    	height: 25px;
+    }
+    #progress_header li:before {
+    	height: 8px;
+    	top: -26px;
+    }
+    #progress_header li.active:after {
+    	font-size: 13px;
+    }
+    .main .multistep-box {
+    	margin-top: 0;
+	}
+}
+@media (max-width: 576px){
+	.navbar-toggler {
+		padding: 3px;
+		font-size: 16px;
+	}
+	header {
+		padding: 0px 0 27px;
+	}
+	h1 {
+		font-size: 30px;
+		line-height: 1.3;
+	}
+	.social-wrap {
+		flex-wrap: wrap;
+		margin: 25px 0;
+	}
+	.image-grid img{
+		min-height: auto;
+	}
+	.social-wrap {
+		flex-wrap: wrap;
+		margin-top: 25px;
+	}
+	.social-wrap .social_links {
+		margin: 0;
+	}
+	footer {
+		margin-top: 40px;
+	}
+	.faq-section {
+		margin: 40px 0;
+	}
+	.baby-boy-wrapper img {
+		max-width: 170px;
+		bottom: 10px;
+	}
+	.content-slider-hero h2 {
+		font-size: 25px;
+	}
+	.accordion-button {
+		font-size: 15px;
+		padding: 15px 20px;
+	}
+	.accordion-button:before {
+		flex: none;
+	}	
+	.banner-how-it h1, .header-faq h1 {
+		font-size: 35px;
+	}
+	.banner-how-it {
+		padding: 50px 0 0;
+		margin-top: 60px;
+	}
+	.header-main-program {
+		margin-bottom: 40px;
+	}
+	.items-wrap img {
+		margin: 10px 10px;
+		height: 80px;
+		width: 80px;
+		object-fit: contain;
+	}
+	.items-wrap:after {
+		width: 85px;
+		height: 85px;
+	}
+	.enrol-items p {
+		font-size: 15px;
+	}
+	.left-features img {
+		margin: 0 20px 0 0px;
+	}
+	.navbar-brand img {
+		max-width: 230px;
+	}
+	.heading-subscription {
+		padding: 20px 50px;
+		height: 120px;
+	}
+	.price-list {
+		min-height: auto;
+	}
+	.accordion-header {
+		border-radius: 0px !important;
+	}
+	.faq-page-section {
+		padding: 120px 0px 0;
+	}
+	.form-wrapper-faq {
+		padding: 20px;
+	}
+	.form-wrapper-faq h4 {
+		font-size: 20px;
+	}
+	.field-icon {
+		bottom: 14px;
+	}
+	.form-wrapper-login {
+		padding: 30px 15px;
+	}
+	.form-wrapper-login .form-control {
+		height: 44px;
+	}
+	.form-wrapper-login .col-6 a {
+		font-size: 14px;
+	}
+	.services-boy-wrapper img {
+		max-width: 300px;
+	}
+	.fees-btn-wrap .btn {
+    	position: unset;
+    	bottom: 25px;
+    	right: 15px;
+    	margin: 20px;
+	}
+	.subscript-data .fees-wrapper:nth-child(3) {
+    	max-width: 100%;
+	}
+	.form-preliminary-wrap {
+    	background: #27aae1;
+    	padding: 20px 14px;
+    	border-radius: 0 0 10px 10px;
+	}
+	.main input, .main textarea {
+    	padding: 10px;
+	}
+	.main .title-box h2 {
+    	padding: 18px 10px;
+	}
+	.main .title-box h2 {
+    	font-size: 16px;
+	}
+}
+@media (min-width: 768px){
+	.accordion-text {
+    	max-width: 60%;
+   }
+}
